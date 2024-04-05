@@ -28,15 +28,7 @@
   <img height=200 width="520" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ayaz162005&layout=compact&theme=tokyonight" />
 </a>
 
-# 🌐 Social
 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/UmmanBHOS)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ummanmmmdv/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/umman-mammadov-947436277/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1172790469281972274)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/?authuser=ummanmemmedov2005@gmail.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Ayaz162005)
-[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23028334/umman-mammadov)
 
 <details open> 
   <summary><h1>🎯 My Skills</h1></summary>
