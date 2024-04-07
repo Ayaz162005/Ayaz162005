@@ -13,7 +13,7 @@
 # GitHub Stats 📊
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ayaz162005&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ayaz162005&show_icons=true&theme=merko" alt="GitHub stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaz162005&layout=compact&theme=tokyonight&langs_count=8&card_width=500" />
