@@ -24,3 +24,33 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 width="520" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ayaz162005&layout=compact&theme=merko" />
 </a>
+
+
+# 🌐 Social
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayaz-memmedov-b45456271/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/?authuser=ummanayaz07@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Ayaz162005)
+[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/24090108/ayaz)
+
+<details open> 
+  <summary><h1>🎯 My Skills</h1></summary>
+
+### 💻 General
+[![General Skills](https://skillicons.dev/icons?i=appwrite,c,cs,cpp,css,dotnet,js,python)](https://skillicons.dev)
+
+### ✨ Frontend
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,materialui,nextjs,react,redux,tailwind,ts)](https://skillicons.dev)
+
+### ⚙️ Backend
+[![Backend Skills](https://skillicons.dev/icons?i=dotnet,npm,yarn,nodejs,express,nestjs)](https://skillicons.dev)
+
+### ⛓️ Databae
+[![Blockchain Skills](https://skillicons.dev/icons?i=mongodb,mysql,prisma,redis,)](https://skillicons.dev)
+
+### 🛠️ Additional
+[![Tools Skills](https://skillicons.dev/icons?i=netlify,git,postman,visualstudio,vite,vscode)](https://skillicons.dev)
+</details>
+
+# 🏆My Trophies
+[![My Trophies](https://github-profile-trophy.vercel.app/?username=Ayaz162005&theme=tokyonight&row=2&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
