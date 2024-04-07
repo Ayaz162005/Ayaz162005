@@ -37,7 +37,7 @@
   <summary><h1>🎯 My Skills</h1></summary>
 
 ### 💻 General
-[![General Skills](https://skillicons.dev/icons?i=appwrite,c,cs,cpp,css,dotnet,js,python)](https://skillicons.dev)
+[![General Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,dotnet,js,python)](https://skillicons.dev)
 
 ### ✨ Frontend
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,materialui,nextjs,react,redux,tailwind,ts)](https://skillicons.dev)
