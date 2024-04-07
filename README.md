@@ -16,7 +16,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ayaz162005&show_icons=true&theme=merko" alt="GitHub stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaz162005&layout=compact&theme=merko&langs_count=8&card_width=500" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaz162005&layout=compact&theme=cobalt&langs_count=8&card_width=500" />
 </a>
 <a href="https://git.io/streak-stats">
   <img height=200 width="480" align="center" src="https://streak-stats.demolab.com/?user=Ayaz162005&theme=merko" />
